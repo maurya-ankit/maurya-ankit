@@ -1,3 +1,4 @@
+<meta property="og:image" content="ankit-top.png" />
 <img src="ankit-top.png"/>
 
 > ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maurya-ankit&show_icons=true&theme=radical)
