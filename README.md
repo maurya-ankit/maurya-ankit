@@ -1,10 +1,6 @@
 <meta property="og:image" content="ankit-top.png" />
 <img src="ankit-top.png"/>
 
-> ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maurya-ankit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-ankit&layout=compact&theme=radical)
-
-
 # Projects
 ## 1. Realtime Chat Application
 [![Realtime](realtime.png)](https://github.com/maurya-ankit/realtime-chat)
@@ -21,3 +17,5 @@
 ### Articles written by me
 - **Using http.server in python** : https://chhotulink.herokuapp.com/ankit-maurya/httpserver
 
+<!-- > ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maurya-ankit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-ankit&layout=compact&theme=radical) -->
