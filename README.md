@@ -1,5 +1,6 @@
 <meta property="og:image" content="ankit-top.png" />
-<img src="ankit-top.png"/>
+
+[![Ankit Maurya](ankit-top.png)](https://maurya-ankit.github.io)
 
 # Projects
 ## 1. Realtime Chat Application
