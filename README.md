@@ -6,10 +6,13 @@
 [![Realtime](realtime.png)](https://github.com/maurya-ankit/realtime-chat)
 
 ## 2. Covid-19 Dashboard
-[![Realtime](covid.png)](https://github.com/maurya-ankit/realtime-chat)
+[![Realtime](covid.png)](https://github.com/maurya-ankit/covid-19-Dashboard)
 
 ## 3. URL Shortener
-[![Realtime](url.png)](https://github.com/maurya-ankit/realtime-chat)
+[![Realtime](url.png)](https://github.com/maurya-ankit/django-redirect)
+
+## 3. E-Classroom
+[![Realtime](classroom.png)](https://github.com/maurya-ankit/E_ClassRoom)
 
  - **Chhotu : link shortener web app** : https://chhotulink.herokuapp.com/ 
  - **E-Classroom : A clone App of google Classroom** : http://e-classroom-5ca34.web.app/
