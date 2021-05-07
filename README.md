@@ -9,6 +9,11 @@
 ## 1. Realtime Chat Application
 [![Realtime](realtime.png)](https://github.com/maurya-ankit/realtime-chat)
 
+## 2. Covid-19 Dashboard
+[![Realtime](covid.png)](https://github.com/maurya-ankit/realtime-chat)
+
+## 3. URL Shortener
+[![Realtime](url.png)](https://github.com/maurya-ankit/realtime-chat)
 
  - **Chhotu : link shortener web app** : https://chhotulink.herokuapp.com/ 
  - **E-Classroom : A clone App of google Classroom** : http://e-classroom-5ca34.web.app/
