@@ -1,4 +1,4 @@
-<meta property="og:image" content="ankit-top.png" />
+<!--<meta property="og:image" content="ankit-top.png" />
 
 [![Ankit Maurya](ankit-top.png)](https://maurya-ankit.github.io)
 
@@ -18,7 +18,7 @@
 
 ### Articles written by me
 - **Using http.server in python** : https://chhotulink.herokuapp.com/ankit-maurya/httpserver
-
+--!>
 <!-- 
  - **Chhotu : link shortener web app** : https://chhotulink.herokuapp.com/ 
  - **E-Classroom : A clone App of google Classroom** : http://e-classroom-5ca34.web.app/
